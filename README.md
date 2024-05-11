@@ -50,7 +50,8 @@
 ### Name:M Sanjay
 ### Register Number: 212222240090
 
-![image](https://github.com/Safeeq-Fazil/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118680361/fb253332-08b9-4200-a518-36ab5115a525)
+![image](https://github.com/Sanjay22006832/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119830477/5c1a8bfd-5329-4cff-8946-e34ff4a42ace)
+
 
 
 ## RESULT:
